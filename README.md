@@ -62,7 +62,7 @@ Add this line:
 ```cron
 0 * * * * /bin/bash /path/to/ubuntu-audit.sh >> /path/to/audit-cron.log 2>&1
 ```
-📄
+
 ## License
 
 This project is licensed under the MIT License.
